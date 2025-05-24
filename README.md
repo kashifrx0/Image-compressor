@@ -1,2 +1,0 @@
-# Image-compressor
-Best compressor 
